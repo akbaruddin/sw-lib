@@ -8,3 +8,9 @@
 > - :memo:       [Documentation]
 > - :house:      [Internal]
 > - :nail_care:  [Polish]
+
+## v1.0.13
+
+#### :memo: Documentation
+
+* Add Change logs
