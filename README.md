@@ -1,0 +1,3 @@
+# @swlibrary
+
+Simple JavaScripts functions
