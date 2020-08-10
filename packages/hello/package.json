@@ -1,7 +1,7 @@
 {
-  "name": "hello",
+  "name": "@swlibrary/hello",
   "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "83d3381dccccc8bdd7706fbfe72c1e590eddc8c0"
+  "gitHead": "ee07727171c12077898cb951b1155d43888630ef"
 }
