@@ -4,5 +4,8 @@
   "repository": "https://github.com/akbaruddin/sw-lib.git",
   "author": "Akbar",
   "license": "MIT",
-  "npmClient": "yarn"
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": ["packages/*"]
 }
