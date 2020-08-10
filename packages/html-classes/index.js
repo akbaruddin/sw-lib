@@ -30,7 +30,7 @@ const hasClass = (element, name) => {
 }
 
 /**
- * toogle Class
+ * toggle Class
  * @param {Object} element - DOM Element
  * @param {String} name - class name
  */
