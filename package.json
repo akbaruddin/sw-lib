@@ -1,5 +1,5 @@
 {
-  "name": "sw-lib",
+  "name": "swlibrary",
   "devDependencies": {
     "lerna": "^3.22.1"
   },
