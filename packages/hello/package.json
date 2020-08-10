@@ -3,5 +3,12 @@
   "version": "1.0.10",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "a1bc97fe6653ff5c6caabc970df3326721293f12"
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akbaruddin/sw-lib.git",
+    "directory": "packages/hello"
+  }
 }

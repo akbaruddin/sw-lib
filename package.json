@@ -8,6 +8,7 @@
   "devDependencies": {
     "lerna": "^3.22.1"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "new-version": "lerna version --conventional-commits --yes"
   },
