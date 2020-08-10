@@ -7,7 +7,7 @@
       "push": false
     }
   },
-  "version": "1.0.13",
+  "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true
 }
