@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "swlibrary",
   "version": "1.0.0",
   "repository": "https://github.com/akbaruddin/sw-lib.git",
@@ -6,6 +7,9 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "new-version": "lerna version --conventional-commits --yes",
   },
   "workspaces": ["packages/*"]
 }
