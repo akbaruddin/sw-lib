@@ -1,6 +1,6 @@
 {
   "name": "@swlibrary/hello",
-  "version": "1.0.11",
+  "version": "1.0.10",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -10,5 +10,6 @@
     "type": "git",
     "url": "https://github.com/akbaruddin/sw-lib.git",
     "directory": "packages/hello"
-  }
+  },
+  "gitHead": "59c0b243de1f586f1a5677d8475dd28c8ab8f1a9"
 }
