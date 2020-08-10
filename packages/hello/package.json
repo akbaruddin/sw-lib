@@ -1,6 +1,6 @@
 {
   "name": "@swlibrary/hello",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "afd3096786306e7a6463f5a7bd6136f6f9c97f78"
