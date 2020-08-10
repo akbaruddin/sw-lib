@@ -1,11 +1,8 @@
 {
   "name": "swlibrary",
-  "devDependencies": {
-    "lerna": "^3.22.1"
-  },
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/akbaruddin/sw-lib.git",
   "author": "Akbar",
-  "license": "MIT"
+  "license": "MIT",
+  "npmClient": "yarn"
 }
