@@ -2,5 +2,6 @@
   "name": "hello",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "b3826e740c61440bb6a61bd83de4880c4763acf8"
 }
