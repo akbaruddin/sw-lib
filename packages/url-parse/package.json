@@ -1,0 +1,14 @@
+{
+  "name": "@swlibrary/url-parse",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akbaruddin/sw-lib.git",
+    "directory": "packages/url-parse"
+  }
+}
